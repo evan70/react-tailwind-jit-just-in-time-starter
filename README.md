@@ -1,4 +1,4 @@
-# Tailwind JIT Starter React
+# React Tailwind JIT /just-in-time/ Starter
 
 Feel free to use the sample code to setup tailwind with jit for your app.
 
