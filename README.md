@@ -1,13 +1,13 @@
 # Tailwind JIT Starter React
 
-Feel free to use the sample code to setup tailwind with jit for your app. The project will act as a codebase for my [blog](http://savio.xyz/)
+Feel free to use the sample code to setup tailwind with jit for your app.
 
 ## Setup
 
 1. Clone repo
 
 ```bash
-git clone https://github.com/saviomartin/tailwind-jit-starter-react.git
+git clone https://github.com/evan70/react-tailwind-jit-just-in-time-starter.git
 ```
 
 2. Install Packages
@@ -28,4 +28,4 @@ npm run watch:css
 npm start
 ```
 
-I hope it works for you, feel free to star ⭐️ the repo. [Give Me a follow on Github](https://github.com/saviomartin)
+I hope it works for you, feel free to star ⭐️ the repo. [Give Me a follow on Github](https://github.com/evan70)
